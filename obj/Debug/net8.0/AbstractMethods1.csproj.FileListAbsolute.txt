@@ -1,0 +1,14 @@
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.AssemblyInfoInputs.cache
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.AssemblyInfo.cs
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.csproj.CoreCompileInputs.cache
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\bin\Debug\net8.0\AbstractMethods1.exe
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\bin\Debug\net8.0\AbstractMethods1.deps.json
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\bin\Debug\net8.0\AbstractMethods1.runtimeconfig.json
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\bin\Debug\net8.0\AbstractMethods1.dll
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\bin\Debug\net8.0\AbstractMethods1.pdb
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.dll
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\refint\AbstractMethods1.dll
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.pdb
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\AbstractMethods1.genruntimeconfig.cache
+C:\Gabriel C#\Projetos Curso\AbstractMethods1\obj\Debug\net8.0\ref\AbstractMethods1.dll
